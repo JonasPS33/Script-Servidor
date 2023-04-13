@@ -8,7 +8,7 @@ apt upgrade
 
 echo "Instalação de ferramentas"
 
-apt install git -y
+
 apt install unzip -y
 apt install wget -y
 apt install fdisk -y
