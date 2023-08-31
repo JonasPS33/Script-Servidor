@@ -31,3 +31,4 @@ echo "abrir  script para edição de configuração  do samba"
 #writable = yes
 #guest ok = yes
 #guest only = yes
+#testtando
